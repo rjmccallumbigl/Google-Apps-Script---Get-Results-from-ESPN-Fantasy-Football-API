@@ -3,7 +3,7 @@
 *
 * Return Fantasy Football stats from https://fantasy.espn.com/football/leaders?leagueId=1707014.
 *
- * https://github.com/rjmccallumbigl/Google-Apps-Script---Get-Results-from-ESPN-Fantasy-Football-API
+* https://github.com/rjmccallumbigl/Google-Apps-Script---Get-Results-from-ESPN-Fantasy-Football-API
 *
 * References
 * https://old.reddit.com/r/sheets/comments/z3140z/is_there_a_way_to_scrape_this_link_to_google/
